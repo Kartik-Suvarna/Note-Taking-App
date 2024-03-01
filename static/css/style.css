@@ -1,7 +1,14 @@
 body, html {
     margin: 0;
     font-family: sans-serif;
-    background-color: lightblue;
+    background-color: #FDCA40;
+    color:#31393C;
+  
+}
+
+button{
+  background-color:#2176FF;
+  color:whitesmoke;
 }
 
 .content {
