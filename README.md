@@ -1,5 +1,5 @@
 # Note Taking App 📝
-### Immplmented using Flask and sqlite
+### Made using Flask and sqlite
 
 Deployed on : https://note-taking-app-19pc.onrender.com/
 
